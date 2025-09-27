@@ -6,16 +6,8 @@ This repository tracks my progress week-by-week as I go from RTL to GDSII using 
 
 ---
 
-## 📅 Week 0 – Setup & Tool Installation
+## 📅 Week 1 
 
-| Task     | Description                                  | Status |
-|----------|----------------------------------------------|--------|
-| Task 0   | 🛠️ Installed Icarus Verilog, Yosys, and GTKWave | ✅ Done |
-
-### 🌟 Key Learnings from Week 0
-- Successfully installed and configured key open-source EDA tools.
-- Understood the RTL design environment and basic synthesis flow setup.
-- System is now ready for full digital design journey — from RTL to GDSII.
 
 ---
 
