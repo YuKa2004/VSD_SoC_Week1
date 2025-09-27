@@ -111,7 +111,8 @@ endmodule
 ```
 - **Function:** `y = i1` if `sel = 1`; else `y = i0`.
 
-![lab1](https://github.com/user-attachments/assets/3f5eb05a-1861-4bb8-940c-6ff9f2af87fb)
+<img width="1002" height="650" alt="image" src="https://github.com/user-attachments/assets/794fb205-ddc0-4093-b5f7-8a2f2c52d7ed" />
+
 
 ---
 
@@ -120,7 +121,8 @@ endmodule
 Synthesize the above MUX using Yosys.  
 _Follow the standard Yosys synthesis flow._
 
-![lab2](https://github.com/user-attachments/assets/7a0cdc7c-cbbd-4943-bd3d-130a0d66b9b1)
+<img width="606" height="650" alt="image" src="https://github.com/user-attachments/assets/1014b500-a3c9-4b5c-86de-11eec6aca65d" />
+
 
 ---
 
